@@ -1,0 +1,25 @@
+ul.list1 {
+    list-style: none;
+    font-size: 27px;
+    line-height: 33px;
+    font-weight: bold;
+}
+ul.list2 {
+    line-height: 32px;
+    list-style: none;
+    text-align: center;
+    margin-top: -22%;
+    font-size: 27px;
+    font-weight: bold;
+    margin-right: 28%;
+}
+
+ul.list3 {
+    float: right;
+    list-style: none;
+    margin-top: -25%;
+    font-size: 27px;
+    font-weight: bold;
+    line-height: 33px;
+    margin-right: 42%;
+}
