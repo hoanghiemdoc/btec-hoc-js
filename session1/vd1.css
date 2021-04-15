@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.colum1 {
+    text-align: center;
+    margin-top: -60%;
+}
+
+h1.inform1 {
+    padding-bottom: 10px;
+}
+
+.colum {
+    margin-left: 15%;
+}
+
+.colum3 {
+    float: right;
+    margin-top: -60%;
+    margin-right: 15%;
+}
+
+h1.thongtin {
+    margin-left: 9%;
+    margin-bottom: 20px;
+}
+
+h1.inform {
+    padding-bottom: 10px;
+}
+
+.anh3 {
+    margin-top: 7px;
+}
+.anh2 {
+    margin-top: -3px;
+}
+h1.inform {
+    padding-bottom: 10px;
+    padding-left: 17px;
+}
+
+
+.anh1 {
+    margin-top: -3px;
+}
+
+
+h1.inform2 {
+    padding-left: 21px;
+}
