@@ -1,0 +1,37 @@
+#bg-yellow {
+    width: 30px;
+    height: 30px;
+    background: yellow;
+}
+
+ul.list1 {
+    font-size: 30px;
+    line-height: 34px;
+}
+
+p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+span#\31 {}
+
+span#\31 {
+    font-style: italic;
+}
+
+span#\33 {
+    font-size: 22px;
+    margin-top: 5px;
+}
+
+span#\34 {
+    font-size: 20px;
+}
+
+span#\35 {
+    text-decoration: underline;
+}
+
+span#\36 {text-decoration: line-through;}
+
