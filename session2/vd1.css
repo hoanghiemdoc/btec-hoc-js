@@ -1,0 +1,119 @@
+
+.thongtin{
+    color: red;
+  
+}
+.thongtin1{
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+    width: 200px;
+    height: 200px;
+    border: 3px solid yellow;
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 84px;
+    border-radius: 40px 40px;
+}
+
+
+
+.thongtin3{
+    color: blue;
+}
+
+
+.inform1{
+    border: 3px solid green;
+    width: 300px;
+    height: 200px;
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+.inform2{
+    border: 3px solid green;
+    width: 300px;
+    height: 200px;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+ 
+}
+
+.inform3{
+    border: 3px solid green;
+    width: 300px;
+    height: 200px;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+ 
+}
+
+.bg-solid{
+    border: 1px solid;
+    /* background-color: pink; */
+    padding-left: 20px;
+}
+
+.bg-solid .test{
+    /* border: 1px solid; */
+    background-color: pink;
+    /* padding-left: 20px; */
+}
+
+.bg-solid1{
+    border: 1px solid;
+   padding-right: 20px;
+    padding-left: 20px;
+}
+
+.bg-solid1 .test1{
+    background-color: pink;
+
+}
+
+
+.bg-solid2{
+    border: 1px solid;
+   padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-solid2 .test2{
+    background-color: pink;
+
+}
+
+
+.test3 {
+  background-color:violet ; 
+  color: green; 
+}
+
+
+.test4 {
+    background-color:violet ; 
+    color: green; 
+    text-align: center;
+  }
+
+  .test5 {
+    background-color:violet ; 
+    color: green; 
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .test6 {
+    background-color:violet ; 
+    color: green; 
+    text-align: center;
+   font-size: 30px;
+  }
