@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* .contanier {
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+h3 {
+    border-left: 4px solid #ff6115;
+    padding-left: 15px;
+}
+
+p{
+    max-width: 302px;
+    font-size: 17px;
+    margin-top: 10px;
+    font-weight: bold;
+  
+} */
+
+/* position relative, position, absolute*/
+/*
+.container{
+    width: 100px;
+    height: 100px;
+}
+
+.container .box{
+    width: 100px;
+    height: 100px;
+    
+}
+
+.container .red{
+    background-color: red;
+ 
+    top: 30px;
+    left: 30px;
+}
+
+.container .green{
+    background-color: green;
+}
+
+.container .blue{
+    background-color: blue;
+}
+
+.container .fixet{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+*/
+
+/* .container {
+  width: 300px;
+  height: 300px;
+  background-color: pink;
+  position: relative;
+  z-index: 2;
+}
+
+.container .inner {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 60px;
+  left: 60px;
+  z-index: 3;
+}
+
+.container .child {
+  width: 300px;
+  height: 300px;
+  background-color: green;
+  position: absolute;
+  top: 60px;
+  left: 60px;
+  z-index: 1;
+  /* margin-top: -50px;
+  margin-left: -50px; */
+/* transform: translate(-50%,-50%); */
+
+/* } */
+
+/* 
+.container .child2{
+    height: 300px;
+    width: 300px;
+    z-index: 1;
+    background-color: aqua;
+    left: 90px;
+    top: 90px;
+    position: absolute; */
+/* } */
+
+
+/* hoc flex-basic flex-grown flex-shirk,order */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-evenly;    thuoc tinh can ngang */
+
+  align-items:flex-end ;    /* thuoc tinh can doc */
+  height: 100vh;
+
+}
+
+.container .box {
+  width: 160px;
+  height: 150px;
+}
+.container .red {
+  background-color: red;
+}
+
+.container .green {
+  background-color: green;
+}
+
+.container .blue {
+  background-color: blue;
+}
