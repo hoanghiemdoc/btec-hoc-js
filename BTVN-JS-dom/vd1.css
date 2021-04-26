@@ -1,0 +1,38 @@
+#box1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+   
+}
+
+#box2 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid pink;
+    
+}
+
+
+#box3{
+    width: 150px;
+    height: 150px;
+    border: 1px solid pink;
+    background-color: aqua;
+}
+
+
+#box4{
+    width: 150px;
+    height: 150px;
+    border: 1px solid pink;
+    background-color: yellow;
+}
+
+
+#dimension{
+    width: 150px;
+    height: 150px;
+    border: 1px solid zed;
+    background-color: blue;
+    margin-top: 20px;
+}
